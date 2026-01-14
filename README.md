@@ -90,14 +90,28 @@ python train_detection.py \
 
 ## Results
 ### Semantic segmentation
-| Example 1 | Example 2 |
-| --- | --- |
-| ![Semantic segmentation result 1](assets/results/semantic_segmentation/image_1.jpg) | ![Semantic segmentation result 2](assets/results/semantic_segmentation/image_2.jpg) |
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/results/semantic_segmentation/image_1.jpg" alt="Semantic segmentation result 1" width="420">
+    </td>
+    <td align="center">
+      <img src="assets/results/semantic_segmentation/image_2.jpg" alt="Semantic segmentation result 2" width="420">
+    </td>
+  </tr>
+</table>
 
 ### Object detection
-| Example 1 | Example 2 |
-| --- | --- |
-| ![Object detection result 1](assets/results/object_detection/image_3.jpg) | ![Object detection result 2](assets/results/object_detection/image_4.jpg) |
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/results/object_detection/image_3.jpg" alt="Object detection result 1" width="420">
+    </td>
+    <td align="center">
+      <img src="assets/results/object_detection/image_4.jpg" alt="Object detection result 2" width="420">
+    </td>
+  </tr>
+</table>
 
 ## Credits
 This stack is maintained by Sovit Ranjan Rath (DebuggerCafe). It builds on the official DINOv3 research and model releases from Meta AI.
