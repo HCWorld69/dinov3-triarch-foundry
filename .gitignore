@@ -1,0 +1,11 @@
+*.swp
+*.swo
+__pycache__
+
+.env
+weights/*
+!weights/readme.txt
+input/*
+!input/readme.txt
+outputs/
+src/detection/config_test.py
